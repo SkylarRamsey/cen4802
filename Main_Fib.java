@@ -12,7 +12,13 @@ public class Main_Fib {
 
 	}
 	
-
+	/**
+	 * Given an int this method returns the fibonacci value of that term
+	 * 
+	 * 
+	 * @param targetTerm the nth term to find the fibonacci value of
+	 * @return the value of the nth term in the fibonacci sequence
+	 */
 	public static int fibbify(int targetTerm)
 	{
 		
