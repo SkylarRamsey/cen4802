@@ -1,2 +1,5 @@
 # cen4802
-This branch is for adding JavaDoc to fibbify method
+Repo for cen4802 summer course
+
+Watch me modify this bad boy - Skylar Ramsey
+
